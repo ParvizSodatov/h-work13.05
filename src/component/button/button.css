@@ -1,0 +1,14 @@
+.but1{
+    background-color: black;
+    color: white;
+    padding: 7px 40px;
+
+}
+
+
+@media(min-width:300px) and (max-width:600px){
+.but1{
+    /* width: 70%; */
+    padding: 5px 10px;
+}
+}

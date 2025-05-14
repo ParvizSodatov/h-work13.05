@@ -1,0 +1,47 @@
+.article1{
+width: 30%;
+    /* border: 1px solid violet; */
+    text-align: center;
+}
+.article1 h1{
+    font-size: 30px;
+
+}
+.article1 p{
+    font-size: 19px;
+    color: gray;
+    width: 70%;
+    margin: auto;
+}
+.section_3{
+    text-align: center;
+    margin-top: 40px;
+
+}
+.section_3 h1{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 35px;
+}
+.section_3 p{
+    width: 70%;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 40px;
+    color: gray;
+}
+.section_3 img {
+    width: 80%;
+    margin: auto;
+
+}
+
+
+
+@media((min-width:300px) and (max-width:600px)){
+.article1{
+    width: 80%;
+    margin: auto;
+}
+}
